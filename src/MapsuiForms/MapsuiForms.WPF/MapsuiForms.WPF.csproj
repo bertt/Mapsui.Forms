@@ -37,26 +37,26 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="BruTile, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\BruTile.2.0.0\lib\net45\BruTile.dll</HintPath>
+    <Reference Include="BruTile, Version=2.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\BruTile.2.0.1\lib\net45\BruTile.dll</HintPath>
     </Reference>
     <Reference Include="ConcurrentCollections, Version=1.0.2.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\ConcurrentHashSet.1.0.2\lib\netstandard1.0\ConcurrentCollections.dll</HintPath>
     </Reference>
     <Reference Include="Mapsui, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Mapsui.2.0.0-beta.2\lib\net461\Mapsui.dll</HintPath>
+      <HintPath>..\..\packages\Mapsui.2.0.0-beta.8\lib\net461\Mapsui.dll</HintPath>
     </Reference>
     <Reference Include="Mapsui.Geometries, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Mapsui.2.0.0-beta.2\lib\net461\Mapsui.Geometries.dll</HintPath>
+      <HintPath>..\..\packages\Mapsui.2.0.0-beta.8\lib\net461\Mapsui.Geometries.dll</HintPath>
     </Reference>
     <Reference Include="Mapsui.Rendering.Skia, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Mapsui.2.0.0-beta.2\lib\net461\Mapsui.Rendering.Skia.dll</HintPath>
+      <HintPath>..\..\packages\Mapsui.2.0.0-beta.8\lib\net461\Mapsui.Rendering.Skia.dll</HintPath>
     </Reference>
     <Reference Include="Mapsui.Rendering.Xaml, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Mapsui.2.0.0-beta.2\lib\net461\Mapsui.Rendering.Xaml.dll</HintPath>
+      <HintPath>..\..\packages\Mapsui.2.0.0-beta.8\lib\net461\Mapsui.Rendering.Xaml.dll</HintPath>
     </Reference>
     <Reference Include="Mapsui.UI.Wpf, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Mapsui.2.0.0-beta.2\lib\net461\Mapsui.UI.Wpf.dll</HintPath>
+      <HintPath>..\..\packages\Mapsui.2.0.0-beta.8\lib\net461\Mapsui.UI.Wpf.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Newtonsoft.Json.11.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
